@@ -1,0 +1,8 @@
+Project: AWS EC2 Web Server with Terraform
+
+This project deploys a Linux web server using Amazon EC2 and installs Apache automatically using Terraform user-data scripts.
+
+Skills Demonstrated
+- EC2 provisioning
+- Security groups
+- Infrastructure automation
